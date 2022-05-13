@@ -1,2 +1,1 @@
 # artistinformation
-# artistinformation
